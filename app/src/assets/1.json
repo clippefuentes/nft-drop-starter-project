@@ -1,0 +1,19 @@
+{
+  "name": "Captain_America",
+  "symbol": "CAP",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "CA2eCvSyeiYLBGATpLKVot9bKp1VQxbCygTcpWCKWv7h",
+        "share": 100
+      }
+    ]
+  }
+}
